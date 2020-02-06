@@ -1,0 +1,6 @@
+C:\Users\Dogukan\source\repos\versioncheck\versioncheck\bin\Debug\versioncheck.exe.config
+C:\Users\Dogukan\source\repos\versioncheck\versioncheck\bin\Debug\versioncheck.exe
+C:\Users\Dogukan\source\repos\versioncheck\versioncheck\bin\Debug\versioncheck.pdb
+C:\Users\Dogukan\source\repos\versioncheck\versioncheck\obj\Debug\versioncheck.csprojAssemblyReference.cache
+C:\Users\Dogukan\source\repos\versioncheck\versioncheck\obj\Debug\versioncheck.exe
+C:\Users\Dogukan\source\repos\versioncheck\versioncheck\obj\Debug\versioncheck.pdb
